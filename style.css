@@ -1,0 +1,24 @@
+body
+{
+    background-size: cover;
+    text-align: center;
+}
+.smallheading
+{
+    color: black;
+    font-size: 15px;
+    margin-top: 0px;
+    width: 100%;
+}
+.heading
+{
+    width: 100%;
+    margin-top: 0px;
+}
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 200px;
+    box-shadow: 5px 5px 5px white;
+}
